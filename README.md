@@ -73,5 +73,5 @@ I am absolutely going to continue working with centering items vertically.
 
 - Frontend Mentor - [@mistydb](https://www.frontendmentor.io/profile/mistydb)
 - Twitter - [@MistyDBaird](https://www.twitter.com/MistyDBaird)
-- GitHub - [@mistydb][https://github.com/mistydb]
+- GitHub - [@mistydb](https://github.com/mistydb)
 
